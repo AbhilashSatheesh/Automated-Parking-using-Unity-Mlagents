@@ -1,0 +1,2 @@
+An automated parking system using reinforcement learning. By creating a realistic 3D simulation environment in Unity and utilizing ML agents, a car agent is trained to park autonomously. The agent learns optimal parking strategies through trial and error, receiving rewards for successful maneuvers and penalties for mistakes. 
+This system demonstrates the potential of machine learning in enhancing autonomous vehicle capabilities for safer and more efficient parking.
